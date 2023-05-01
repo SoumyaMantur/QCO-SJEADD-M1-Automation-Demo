@@ -8,7 +8,11 @@ public class Demo {
 		
 		System.out.println("Hi");
 		
+<<<<<<< HEAD
 		System.out.println("Bye");
+=======
+		System.out.println("Hello");
+>>>>>>> branch 'master' of https://github.com/SoumyaMantur/QCO-SJEADD-M1-Automation-Demo.git
 	}
 
 }
